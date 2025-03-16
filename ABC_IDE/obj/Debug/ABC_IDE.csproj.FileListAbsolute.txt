@@ -1,0 +1,52 @@
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE\ABC_IDE\bin\Debug\ABC_IDE.exe.config
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE\ABC_IDE\bin\Debug\ABC_IDE.exe
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE\ABC_IDE\bin\Debug\ABC_IDE.pdb
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE\ABC_IDE\obj\Debug\ABC_IDE.csprojResolveAssemblyReference.cache
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE\ABC_IDE\obj\Debug\ABC_IDE.Generic.resources
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE\ABC_IDE\obj\Debug\ABC_IDE.Properties.Resources.resources
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE\ABC_IDE\obj\Debug\ABC_IDE.csproj.GenerateResource.Cache
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE\ABC_IDE\obj\Debug\ABC_IDE.exe
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE\ABC_IDE\obj\Debug\ABC_IDE.pdb
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE\ABC_IDE\obj\Debug\ABC_IDE.IDE.resources
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy\ABC_IDE\bin\Debug\ABC_IDE.exe.config
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy\ABC_IDE\obj\Debug\ABC_IDE.exe
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy\ABC_IDE\obj\Debug\ABC_IDE.pdb
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy\ABC_IDE\obj\Debug\ABC_IDE.csprojResolveAssemblyReference.cache
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy\ABC_IDE\obj\Debug\ABC_IDE.IDE.resources
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy\ABC_IDE\obj\Debug\ABC_IDE.Generic.resources
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy\ABC_IDE\obj\Debug\ABC_IDE.Properties.Resources.resources
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy\ABC_IDE\obj\Debug\ABC_IDE.csproj.GenerateResource.Cache
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy\ABC_IDE\bin\Debug\ABC_IDE.exe
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy\ABC_IDE\bin\Debug\ABC_IDE.pdb
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy - Copy\ABC_IDE\bin\Debug\ABC_IDE.exe.config
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy - Copy\ABC_IDE\obj\Debug\ABC_IDE.exe
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy - Copy\ABC_IDE\obj\Debug\ABC_IDE.pdb
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy - Copy\ABC_IDE\bin\Debug\ABC_IDE.exe
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy - Copy\ABC_IDE\bin\Debug\ABC_IDE.pdb
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy - Copy\ABC_IDE\obj\Debug\ABC_IDE.csprojResolveAssemblyReference.cache
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy - Copy\ABC_IDE\obj\Debug\ABC_IDE.IDE.resources
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy - Copy\ABC_IDE\obj\Debug\ABC_IDE.Generic.resources
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy - Copy\ABC_IDE\obj\Debug\ABC_IDE.Properties.Resources.resources
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE - Copy - Copy\ABC_IDE\obj\Debug\ABC_IDE.csproj.GenerateResource.Cache
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE_2.0\ABC_IDE\bin\Debug\ABC_IDE.exe.config
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.exe
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.pdb
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE_2.0\ABC_IDE\bin\Debug\ABC_IDE.exe
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE_2.0\ABC_IDE\bin\Debug\ABC_IDE.pdb
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.csprojResolveAssemblyReference.cache
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.IDE.resources
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.Generic.resources
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.Properties.Resources.resources
+D:\#1SCHOOL\Informatica\C#\Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.csproj.GenerateResource.Cache
+C:\Users\chisb\OneDrive\Desktop\Atestat - Covaci Andrei & Chis Bogdan\ABC_IDE_2.0\ABC_IDE\bin\Debug\ABC_IDE.exe.config
+C:\Users\chisb\OneDrive\Desktop\Atestat - Covaci Andrei & Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.exe
+C:\Users\chisb\OneDrive\Desktop\Atestat - Covaci Andrei & Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.pdb
+C:\Users\chisb\OneDrive\Desktop\Atestat - Covaci Andrei & Chis Bogdan\ABC_IDE_2.0\ABC_IDE\bin\Debug\ABC_IDE.exe
+C:\Users\chisb\OneDrive\Desktop\Atestat - Covaci Andrei & Chis Bogdan\ABC_IDE_2.0\ABC_IDE\bin\Debug\ABC_IDE.pdb
+C:\Users\chisb\OneDrive\Desktop\Atestat - Covaci Andrei & Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.csprojResolveAssemblyReference.cache
+C:\Users\chisb\OneDrive\Desktop\Atestat - Covaci Andrei & Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.IDE.resources
+C:\Users\chisb\OneDrive\Desktop\Atestat - Covaci Andrei & Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.Generic.resources
+C:\Users\chisb\OneDrive\Desktop\Atestat - Covaci Andrei & Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.Properties.Resources.resources
+C:\Users\chisb\OneDrive\Desktop\Atestat - Covaci Andrei & Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.csproj.GenerateResource.Cache
+C:\Chis Bogdan\Informatica\C#\Atestat_Covaci Andrei_Chis Bogdan\Atestat - Covaci Andrei & Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.exe
+C:\Chis Bogdan\Informatica\C#\Atestat_Covaci Andrei_Chis Bogdan\Atestat - Covaci Andrei & Chis Bogdan\ABC_IDE_2.0\ABC_IDE\obj\Debug\ABC_IDE.pdb
